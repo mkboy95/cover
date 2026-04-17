@@ -1,8 +1,20 @@
-# ThisCover
-
-<a href="https://go.202597.xyz"><img src="https://img.shields.io/badge/Deployed_with-EdgeOne_Pages-f38020?style=flat-square&logo=cloudflare&logoColor=white" alt="EdgeOne Pages"></a>
-
-一个免费、漂亮的封面生成器，基于 [**rutikwankhade/CoverView**](https://github.com/rutikwankhade/CoverView)
+<div align="center">
+  <img src="./public/logo.png" alt="ThisCover Logo" width="120" height="120">
+  
+  # ThisCover
+  
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 20px 0;">
+    <a href="https://go.202597.xyz"><img src="https://img.shields.io/badge/Deployed_with-EdgeOne_Pages-0070f3?style=flat-square&logo=cloudflare&logoColor=white" alt="EdgeOne Pages"></a>
+    <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"></a>
+    <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"></a>
+    <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"></a>
+    <a href="https://shadcn/ui"><img src="https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white" alt="shadcn/ui"></a>
+    <a href="https://vercel.com/"><img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"></a>
+    <a href="https://netlify.com/"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify"></a>
+  </div>
+  
+  一个免费、漂亮的封面生成器，基于 [**rutikwankhade/CoverView**](https://github.com/rutikwankhade/CoverView)
+</div>
 
 全新架构升级，使用 `next.js v16` + `react v19` + `shadcn/ui` + `tailwindcss v4` + `lucide icons`
 
