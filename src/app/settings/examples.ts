@@ -67,7 +67,7 @@ export const Examples = [
   {
     id: '3',
     name: '我的博客日常记录',
-    preview: 'https://p.weizwz.com/cover/thiscover_example_2_1c118ab0f9fc93e0.webp',
+    preview: 'https://tp.202597.xyz/file/1776398431338_ThisCover_20260417_115735.png',
     ratio: '16/9',
     mark: '背景主题：使用在线背景图片',
     data: {
@@ -141,7 +141,7 @@ export const Examples = [
   {
     id: '5',
     name: '桌面主题预览',
-    preview: 'https://p.weizwz.com/cover/thiscover_example_5_1e1feb39361e31ca.webp',
+    preview: 'https://tp.202597.xyz/file/1776398423024_ThisCover_20260417_115927.png',
     ratio: '4/3',
     mark: '桌面主题：使用桌面截图和渐变背景',
     data: {
@@ -173,7 +173,7 @@ export const Examples = [
   {
     id: '6',
     name: '数学课学习笔记 2025年6月20日',
-    preview: 'https://p.weizwz.com/cover/thiscover_example_6_92b78a7283d015eb.webp',
+    preview: 'https://tp.202597.xyz/file/1776398415625_ThisCover_20260417_115813.png',
     ratio: '1',
     mark: '现代主题：使用纹理和彩色图标',
     data: {
@@ -205,7 +205,7 @@ export const Examples = [
   {
     id: '7',
     name: '前端常用图标资源汇总 note.mkboy95.com',
-    preview: 'https://p.weizwz.com/cover/thiscover_example_7_fdbfc2f7903cbd18.webp',
+    preview: 'https://tp.202597.xyz/file/1776398428501_ThisCover_20260417_115851.png',
     ratio: '3/2',
     mark: '经典主题：使用渐变背景和彩色图标',
     data: {
@@ -237,7 +237,7 @@ export const Examples = [
   {
     id: '8',
     name: 'OPPO主题图标设计',
-    preview: 'https://p.weizwz.com/cover/thiscover_example_8_db9eec43bc97cbd4.webp',
+    preview: 'https://tp.202597.xyz/file/1776398420975_ThisCover_20260417_115944.png',
     ratio: '1',
     mark: '手机主题：使用在线图片和手机截图',
     data: {
