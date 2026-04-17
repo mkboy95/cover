@@ -17,7 +17,12 @@ export default function Head({ className }: { className?: string }) {
         <div className='flex-1 flex items-center justify-between'>
           <div className='flex-1 flex items-center'>
           </div>
-          <div className='h-full flex items-center justify-end'>
+          <div className='h-full flex items-center justify-end gap-3'>
+            <Button className='rounded-3xl bg-primary text-white hover:bg-primary/90'>
+              <a href='https://go.202597.xyz' target='_blank'>
+                超赞博客
+              </a>
+            </Button>
             <Button className='rounded-3xl'>
               <a href='https://github.com/mkboy95/cover' target='_blank'>
                 ⭐ Star on Github
