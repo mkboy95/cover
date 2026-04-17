@@ -245,8 +245,8 @@ export default function Main() {
       <footer className='w-full px-4 md:px-12 py-12 flex flex-col items-center gap-4'>
         <p>
           Copyright © 2025{new Date().getFullYear() === 2025 ? '' : '-' + new Date().getFullYear()}
-          <a className='font-bold text-primary ml-2' target='_blank' href='https://note.weizwz.com/'>
-            weizwz
+          <a className='font-bold text-primary ml-2' target='_blank' href='https://go.202597.xyz/'>
+            mkboy95
           </a>
         </p>
         <div className='flex flex-wrap items-center justify-center gap-2'>
@@ -271,7 +271,7 @@ export default function Main() {
           <a target='_blank' href='https://unsplash.com/developers' title='本站图片API使用 unsplash'>
             <img alt='unsplash' src='https://img.shields.io/badge/Image API-unsplash-000000?logo=unsplash&amp;logoColor=fff' />
           </a>
-          <a target='_blank' href='https://github.com/weizwz' title='本站代码托管于 Github'>
+          <a target='_blank' href='https://github.com/mkboy95' title='本站代码托管于 Github'>
             <img alt='Github' src='https://img.shields.io/badge/Code-Github-432DD7?logo=github&amp;logoColor=fff' />
           </a>
           <a target='_blank' href='https://vercel.com/' title='本站部署于 Vercel'>

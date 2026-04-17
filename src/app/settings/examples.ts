@@ -72,7 +72,7 @@ export const Examples = [
     mark: '背景主题：使用在线背景图片',
     data: {
       title: '我的博客日常记录',
-      author: '唯知笔记',
+      author: '超赞博客',
       download: 'png' as const,
       scale: 2,
       icon: { value: 'streamline-ultimate:content-pen-write', label: 'content-pen-write' },
@@ -146,7 +146,7 @@ export const Examples = [
     mark: '桌面主题：使用桌面截图和渐变背景',
     data: {
       title: '桌面主题预览',
-      author: 'weizwz.com',
+      author: 'mkboy95.com',
       download: 'png' as const,
       scale: 2,
       icon: { value: 'mynaui:desktop', label: 'desktop' },
@@ -204,13 +204,13 @@ export const Examples = [
 
   {
     id: '7',
-    name: '前端常用图标资源汇总 note.weizwz.com',
+    name: '前端常用图标资源汇总 note.mkboy95.com',
     preview: 'https://p.weizwz.com/cover/thiscover_example_7_fdbfc2f7903cbd18.webp',
     ratio: '3/2',
     mark: '经典主题：使用渐变背景和彩色图标',
     data: {
-      title: '前端常用图标资源汇总\nnote.weizwz.com',
-      author: '唯知笔记',
+      title: '前端常用图标资源汇总\nnote.mkboy95.com',
+      author: '超赞博客',
       download: 'png' as const,
       scale: 2,
       icon: { value: 'logos:slack-icon', label: 'slack-icon' },
@@ -242,7 +242,7 @@ export const Examples = [
     mark: '手机主题：使用在线图片和手机截图',
     data: {
       title: 'OPPO主题图标设计',
-      author: '唯知笔记',
+      author: '超赞博客',
       download: 'png' as const,
       scale: 2,
       icon: { value: 'streamline-block:devices-phone', label: 'devices-phone' },
